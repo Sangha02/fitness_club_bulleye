@@ -1,0 +1,66 @@
+.form {
+background-color:#ada9a9;
+}
+
+.input_table{
+    border-radius: 5px;
+    background-color: #ada9a9;
+    padding: 20px;
+ 
+    align-items: center;
+   
+    
+}
+
+input[type=text] {
+    width: 70%%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+
+  .bt{
+    width:200px;
+    height: 50px;
+    color:rgb(50, 45, 22);
+    background-color: rgb(82, 205, 82);
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+  }
+
+  .dp_table{
+    width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+table {
+    border: 2px solid forestgreen;
+    width: 800px;
+    height: 200px;
+  }
+th {
+    border-bottom: 1px solid black;
+  }
+    
+td {
+    text-align: center;
+    cursor: pointer;
+  }
+
+.rm_bt{
+    background-color: red;
+    width: 130px;
+    height: 50px;
+    margin-left: 30px;
+    font-size: 20px;
+}  
